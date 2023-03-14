@@ -13,10 +13,10 @@
 <a href="https://d.top4top.io/s_2021hqnie0.jpeg"><img title="Author" src="https://d.top4top.io/s_2021hqnie0.jpeg"></a>
 </p>
 <p align="center">
-<a href="https://github.com/fox-alaam/M. TahriyneBOT2/followers"><img title="Followers" src="https://d.top4top.io/s_2021hqnie0.jpeg"></a>
-<a href="https://github.com/fox-alaam/M. TahriyneBOT2/stargazers/"><img title="Stars" src="https://d.top4top.io/s_2021hqnie0.jpeg"></a>
-<a href="https://github.com/fox-alaam/M. TahriyneBOT2/network/members"><img title="Forks" src="https://d.top4top.io/s_2021hqnie0.jpeg"></a>
-<a href="https://github.com/fox-alaam/M. TahriyneBOT2/watchers"><img title="Watching" src="https://d.top4top.io/s_2021hqnie0.jpeg"></a>
+<a href="https://github.com/mohammee007/mtbot.git/followers"><img title="Followers" src="https://d.top4top.io/s_2021hqnie0.jpeg"></a>
+<a href="https://github.com/mohammee007/mtbot.git/stargazers/"><img title="Stars" src="https://d.top4top.io/s_2021hqnie0.jpeg"></a>
+<a href="https://github.com/mohammee007/mtbot.git/network/members"><img title="Forks" src="https://d.top4top.io/s_2021hqnie0.jpeg"></a>
+<a href="https://github.com/mohammee007/mtbot.git/watchers"><img title="Watching" src="https://d.top4top.io/s_2021hqnie0.jpeg"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2FM. Tahriynebot&count_bg=%2379C83D&title_bg=%23555555&icon=lmms.svg&icon_color=%23E8E8E8&title=M. Tahriynebot&edge_flat=true"/></a>
 </p>
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" alt="Mario Game" width="600" />
@@ -46,12 +46,12 @@ Siapin alat dan bahannya.
 > kopi+rokok ;v
 ```
 ## Edit disini
-Buka nih [`Ramlan.json`](https://github.com/fox-alaam/M. TahriyneBOT2/edit/main/settings/Ramlan.json). Apikey Free Tinggal regist [`ZEKS API`](https://api.lolhuman.xyz/login).
+Buka nih [`Ramlan.json`](https://github.com/mohammee007/mtbot.git/edit/main/settings/Ramlan.json). Apikey Free Tinggal regist [`ZEKS API`](https://api.lolhuman.xyz/login).
 ```json
 {
     "botName": "M. Tahriyne BOT",
     "ownerName": "M. Tahriyne BOTZ",
-    "ownerNumbers": "201060647991",
+    "ownerNumbers": "212690078793",
     "ZeksApi": "apivinz",
     "botPrefix": "!",
     "GrupLimitz": "0",
@@ -71,7 +71,7 @@ Buka nih [`Ramlan.json`](https://github.com/fox-alaam/M. TahriyneBOT2/edit/main/
 > pkg install git -y
 > pkg install bash -y
 > pkg install mc -y
-> git clone https://github.com/fox-alaam/M. TahriyneBOT2
+> git clone https://github.com/mohammee007/mtbot.git
 > cd babybot
 > bash install.sh
 > npm start
